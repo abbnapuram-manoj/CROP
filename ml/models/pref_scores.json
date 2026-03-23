@@ -1,0 +1,52 @@
+{
+  "profit": {
+    "Cotton": 10,
+    "Pomegranate": 9,
+    "Apple": 9,
+    "Grapes": 8,
+    "Mango": 8,
+    "MungBean": 7,
+    "Chickpea": 6
+  },
+  "yield": {
+    "Rice": 10,
+    "Wheat": 9,
+    "Maize": 9,
+    "Banana": 8,
+    "Coconut": 7,
+    "Jute": 6
+  },
+  "lowWater": {
+    "MothBeans": 10,
+    "Chickpea": 9,
+    "Lentil": 9,
+    "Pomegranate": 8,
+    "Muskmelon": 7
+  },
+  "pestFree": {
+    "Lentil": 10,
+    "MungBean": 9,
+    "Blackgram": 8,
+    "Chickpea": 8,
+    "PigeonPeas": 7
+  },
+  "quickCycle": {
+    "MungBean": 10,
+    "Maize": 9,
+    "Watermelon": 8,
+    "Muskmelon": 8
+  },
+  "organic": {
+    "MungBean": 10,
+    "Lentil": 9,
+    "Chickpea": 9,
+    "Blackgram": 8
+  },
+  "export": {
+    "Cotton": 10,
+    "Mango": 9,
+    "Grapes": 9,
+    "Pomegranate": 8,
+    "Rice": 7
+  }
+}

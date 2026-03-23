@@ -1,0 +1,47 @@
+{
+  "accuracy": 84.41,
+  "cv_accuracy": 84.58,
+  "features": [
+    "N",
+    "P",
+    "K",
+    "ph",
+    "temperature",
+    "humidity",
+    "rainfall"
+  ],
+  "crops": [
+    "Rice",
+    "Wheat",
+    "Maize",
+    "Chickpea",
+    "KidneyBeans",
+    "PigeonPeas",
+    "MothBeans",
+    "MungBean",
+    "Blackgram",
+    "Lentil",
+    "Pomegranate",
+    "Banana",
+    "Mango",
+    "Grapes",
+    "Watermelon",
+    "Muskmelon",
+    "Apple",
+    "Orange",
+    "Papaya",
+    "Coconut",
+    "Cotton",
+    "Jute"
+  ],
+  "feature_importance": {
+    "N": 0.18909270211176488,
+    "P": 0.1271524553262826,
+    "K": 0.1182738831578638,
+    "ph": 0.12067155543107835,
+    "temperature": 0.15816737089502725,
+    "humidity": 0.12521274834652943,
+    "rainfall": 0.16142928473145352
+  },
+  "training_samples": 11000
+}

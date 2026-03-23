@@ -1,0 +1,134 @@
+{
+  "Rice": [
+    "Wheat",
+    "Lentil",
+    "Chickpea",
+    "MungBean"
+  ],
+  "Wheat": [
+    "Rice",
+    "Maize",
+    "Chickpea",
+    "Lentil"
+  ],
+  "Maize": [
+    "Wheat",
+    "Chickpea",
+    "Lentil",
+    "MungBean"
+  ],
+  "Chickpea": [
+    "Wheat",
+    "Rice",
+    "Maize",
+    "Cotton"
+  ],
+  "KidneyBeans": [
+    "Maize",
+    "Wheat",
+    "Rice",
+    "Chickpea"
+  ],
+  "PigeonPeas": [
+    "Maize",
+    "Rice",
+    "Wheat",
+    "Chickpea"
+  ],
+  "MothBeans": [
+    "Maize",
+    "Wheat",
+    "Rice",
+    "Chickpea"
+  ],
+  "MungBean": [
+    "Rice",
+    "Wheat",
+    "Maize",
+    "Cotton"
+  ],
+  "Blackgram": [
+    "Rice",
+    "Maize",
+    "Wheat",
+    "Chickpea"
+  ],
+  "Lentil": [
+    "Wheat",
+    "Rice",
+    "Maize",
+    "Chickpea"
+  ],
+  "Pomegranate": [
+    "Wheat",
+    "Chickpea",
+    "Lentil",
+    "MungBean"
+  ],
+  "Banana": [
+    "Rice",
+    "Maize",
+    "Wheat",
+    "PigeonPeas"
+  ],
+  "Mango": [
+    "Wheat",
+    "Chickpea",
+    "Maize",
+    "Lentil"
+  ],
+  "Grapes": [
+    "Wheat",
+    "Maize",
+    "Chickpea",
+    "Lentil"
+  ],
+  "Watermelon": [
+    "Maize",
+    "Wheat",
+    "Rice",
+    "Chickpea"
+  ],
+  "Muskmelon": [
+    "Maize",
+    "Wheat",
+    "Rice",
+    "Chickpea"
+  ],
+  "Apple": [
+    "Wheat",
+    "Maize",
+    "Chickpea",
+    "Lentil"
+  ],
+  "Orange": [
+    "Wheat",
+    "Maize",
+    "Chickpea",
+    "Lentil"
+  ],
+  "Papaya": [
+    "Maize",
+    "Rice",
+    "Wheat",
+    "MungBean"
+  ],
+  "Coconut": [
+    "Rice",
+    "Maize",
+    "Blackgram",
+    "MungBean"
+  ],
+  "Cotton": [
+    "Wheat",
+    "Chickpea",
+    "Maize",
+    "MungBean"
+  ],
+  "Jute": [
+    "Rice",
+    "Wheat",
+    "Maize",
+    "Lentil"
+  ]
+}
